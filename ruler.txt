@@ -85,6 +85,8 @@ tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 */adsense/
 ||adserver.
 ||changyan.$subdocument
+||g.alicdn.com/$script
+||g.tbcdn.cn/
 ||g.$third-party,subdocument,script
 ||gg.
 ||ggg.
